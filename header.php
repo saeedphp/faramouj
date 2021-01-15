@@ -48,7 +48,7 @@ foreach ($redirect as $row){ ?>
                         <div class="octf-mainbar-row octf-row">
                             <div class="octf-col">
                                 <div id="site-logo" class="site-logo">
-                                    <a href="index.html">
+                                    <a href="<?= URL ?>">
                                         <img class="logo-static" src="assets/images/optimized-nxo9.png" alt="Onum">
                                     </a>
                                 </div>
